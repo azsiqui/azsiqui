@@ -25,7 +25,7 @@
   <img style="vertical-align:" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asziqui" height="25" width="35"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.buymeacoffee.com/https://buymeacoffee.com/azsiqui">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://buymeacoffee.com/azsiqui">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="asziqui" height="95" width="105"></a>
 </p> 
 </samp>
